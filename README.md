@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IrenBys
-- 👀 I’m interested in WEB and IoT technologies
+- 👀 I’m interested in Computer Scince, WEB and IoT technologies
 - 🌱 I’m currently C/C++, Qt and QML, Python developer
 - 📫 How to reach me:
 - Telegram: @irenbys
