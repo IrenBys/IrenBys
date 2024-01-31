@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrenBys
 - 👀 I’m interested in Computer Scince, WEB and IoT technologies
-- 🌱 I’m currently C/C++, Qt and QML, Python developer
+- 🌱 I’m currently C++ developer
 - 📫 How to reach me:
 - Telegram: @irenbys
 - Email: irinavalentinovn@yandex.ru
